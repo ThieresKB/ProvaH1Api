@@ -1,0 +1,13 @@
+a) De acordo com os verbos que estudamos em sala qual é o verbo usado para Obter os
+dados da API?
+
+R: GET para requisições simples.
+   POST se for dados pessoias como documentos e senhas.
+
+b) De acordo com os verbos que estudamos em sala qual é o verbo usado para Criar
+(inserir) novos dados na API?
+
+R: PUT 
+
+c) Implemente o consumo da API simulada no Json-server utilizando os verbos citados nos
+itens a) e b) utilizando c#.

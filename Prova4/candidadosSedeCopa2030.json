@@ -1,0 +1,16 @@
+{
+  "candidadosSedeCopa2030": [
+    {
+      "id": 1,
+      "nome": "Brasil",
+      "copasJaRealizadas": 2,
+      "capital": "“Brasilia”"
+    },
+    {
+      "id": 2,
+      "nome": "Argentina",
+      "copasJaRealizadas": 0,
+      "capital": "“Buenos Aires”"
+    }
+  ]
+}

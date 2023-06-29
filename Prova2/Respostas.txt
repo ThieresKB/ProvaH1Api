@@ -1,0 +1,6 @@
+﻿Resposta
+
+1° - Falso " A pesquisa sequencial é um algoritmo mais eficiente do que a pesquisa binária para ..."
+2° - Verdadeiro "A pesquisa binária tem uma complexidade de tempo de O(n), onde "n" é o tamanho da lista."
+3° - Falso "A pesquisa sequencial só pode ser aplicada a listas ordenadas."
+4° - Falso "A complexidade de tempo da pesquisa sequencial é O(log n), onde "n" é o tamanho da lista."
